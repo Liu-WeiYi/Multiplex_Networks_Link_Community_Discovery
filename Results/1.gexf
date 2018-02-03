@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Purnama Putra" label="Purnama Putra" />
+      <node id="Joni Achmad Fauzan" label="Joni Achmad Fauzan" />
+      <node id="Akram" label="Akram" />
+      <node id="Subur Sugiarto" label="Subur Sugiarto" />
+      <node id="Ahmad Rofiq Ridho" label="Ahmad Rofiq Ridho" />
+      <node id="Azhari Husin" label="Azhari Husin" />
+      <node id="Abdul Malik" label="Abdul Malik" />
+      <node id="Cholily" label="Cholily" />
+      <node id="Son Hadi" label="Son Hadi" />
+      <node id="Joko Triharmanto" label="Joko Triharmanto" />
+      <node id="Usman bin Sef" label="Usman bin Sef" />
+      <node id="Abu Fida" label="Abu Fida" />
+      <node id="Imam Bukhori" label="Imam Bukhori" />
+      <node id="Toni Togar" label="Toni Togar" />
+      <node id="Iwan Dharmawan" label="Iwan Dharmawan" />
+      <node id="Aceng Kurnia" label="Aceng Kurnia" />
+      <node id="Mus'ab Sahidi" label="Mus'ab Sahidi" />
+      <node id="Achmad Hasan" label="Achmad Hasan" />
+      <node id="Agus Ahmad" label="Agus Ahmad" />
+      <node id="Noordin Mohammed Top" label="Noordin Mohammed Top" />
+      <node id="Abdul Rauf" label="Abdul Rauf" />
+      <node id="Said Sungkar" label="Said Sungkar" />
+      <node id="Hari Kuncoro" label="Hari Kuncoro" />
+      <node id="Ismail" label="Ismail" />
+      <node id="Abdullah Sunata" label="Abdullah Sunata" />
+      <node id="Jabir" label="Jabir" />
+      <node id="Abu Dujanah" label="Abu Dujanah" />
+      <node id="Ubeid" label="Ubeid" />
+      <node id="Heri Sigu Samboja" label="Heri Sigu Samboja" />
+      <node id="Mohamed Saifuddin (alias Faiz)" label="Mohamed Saifuddin (alias Faiz)" />
+      <node id="Mohamed Rais" label="Mohamed Rais" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Purnama Putra" target="Hari Kuncoro" />
+      <edge id="1" source="Purnama Putra" target="Joko Triharmanto" />
+      <edge id="2" source="Purnama Putra" target="Abdullah Sunata" />
+      <edge id="3" source="Purnama Putra" target="Ahmad Rofiq Ridho" />
+      <edge id="4" source="Purnama Putra" target="Ubeid" />
+      <edge id="5" source="Purnama Putra" target="Azhari Husin" />
+      <edge id="6" source="Purnama Putra" target="Usman bin Sef" />
+      <edge id="7" source="Purnama Putra" target="Noordin Mohammed Top" />
+      <edge id="8" source="Joni Achmad Fauzan" target="Ahmad Rofiq Ridho" />
+      <edge id="9" source="Joni Achmad Fauzan" target="Noordin Mohammed Top" />
+      <edge id="10" source="Akram" target="Abdul Malik" />
+      <edge id="11" source="Akram" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="12" source="Subur Sugiarto" target="Cholily" />
+      <edge id="13" source="Subur Sugiarto" target="Azhari Husin" />
+      <edge id="14" source="Subur Sugiarto" target="Ahmad Rofiq Ridho" />
+      <edge id="15" source="Subur Sugiarto" target="Noordin Mohammed Top" />
+      <edge id="16" source="Ahmad Rofiq Ridho" target="Mus'ab Sahidi" />
+      <edge id="17" source="Ahmad Rofiq Ridho" target="Joko Triharmanto" />
+      <edge id="18" source="Ahmad Rofiq Ridho" target="Azhari Husin" />
+      <edge id="19" source="Ahmad Rofiq Ridho" target="Noordin Mohammed Top" />
+      <edge id="20" source="Ahmad Rofiq Ridho" target="Cholily" />
+      <edge id="21" source="Ahmad Rofiq Ridho" target="Said Sungkar" />
+      <edge id="22" source="Ahmad Rofiq Ridho" target="Hari Kuncoro" />
+      <edge id="23" source="Ahmad Rofiq Ridho" target="Abdullah Sunata" />
+      <edge id="24" source="Ahmad Rofiq Ridho" target="Ubeid" />
+      <edge id="25" source="Ahmad Rofiq Ridho" target="Imam Bukhori" />
+      <edge id="26" source="Ahmad Rofiq Ridho" target="Usman bin Sef" />
+      <edge id="27" source="Ahmad Rofiq Ridho" target="Iwan Dharmawan" />
+      <edge id="28" source="Azhari Husin" target="Mus'ab Sahidi" />
+      <edge id="29" source="Azhari Husin" target="Joko Triharmanto" />
+      <edge id="30" source="Azhari Husin" target="Noordin Mohammed Top" />
+      <edge id="31" source="Azhari Husin" target="Cholily" />
+      <edge id="32" source="Azhari Husin" target="Said Sungkar" />
+      <edge id="33" source="Azhari Husin" target="Hari Kuncoro" />
+      <edge id="34" source="Azhari Husin" target="Abdullah Sunata" />
+      <edge id="35" source="Azhari Husin" target="Ubeid" />
+      <edge id="36" source="Azhari Husin" target="Imam Bukhori" />
+      <edge id="37" source="Azhari Husin" target="Usman bin Sef" />
+      <edge id="38" source="Azhari Husin" target="Iwan Dharmawan" />
+      <edge id="39" source="Abdul Malik" target="Jabir" />
+      <edge id="40" source="Cholily" target="Noordin Mohammed Top" />
+      <edge id="41" source="Son Hadi" target="Abu Fida" />
+      <edge id="42" source="Son Hadi" target="Usman bin Sef" />
+      <edge id="43" source="Son Hadi" target="Noordin Mohammed Top" />
+      <edge id="44" source="Joko Triharmanto" target="Hari Kuncoro" />
+      <edge id="45" source="Joko Triharmanto" target="Abdullah Sunata" />
+      <edge id="46" source="Joko Triharmanto" target="Ubeid" />
+      <edge id="47" source="Joko Triharmanto" target="Usman bin Sef" />
+      <edge id="48" source="Joko Triharmanto" target="Noordin Mohammed Top" />
+      <edge id="49" source="Usman bin Sef" target="Mus'ab Sahidi" />
+      <edge id="50" source="Usman bin Sef" target="Noordin Mohammed Top" />
+      <edge id="51" source="Usman bin Sef" target="Said Sungkar" />
+      <edge id="52" source="Usman bin Sef" target="Hari Kuncoro" />
+      <edge id="53" source="Usman bin Sef" target="Abdullah Sunata" />
+      <edge id="54" source="Usman bin Sef" target="Abu Fida" />
+      <edge id="55" source="Usman bin Sef" target="Ubeid" />
+      <edge id="56" source="Usman bin Sef" target="Imam Bukhori" />
+      <edge id="57" source="Usman bin Sef" target="Iwan Dharmawan" />
+      <edge id="58" source="Abu Fida" target="Noordin Mohammed Top" />
+      <edge id="59" source="Imam Bukhori" target="Said Sungkar" />
+      <edge id="60" source="Imam Bukhori" target="Iwan Dharmawan" />
+      <edge id="61" source="Imam Bukhori" target="Mus'ab Sahidi" />
+      <edge id="62" source="Toni Togar" target="Abdul Rauf" />
+      <edge id="63" source="Iwan Dharmawan" target="Said Sungkar" />
+      <edge id="64" source="Iwan Dharmawan" target="Mus'ab Sahidi" />
+      <edge id="65" source="Aceng Kurnia" target="Achmad Hasan" />
+      <edge id="66" source="Aceng Kurnia" target="Heri Sigu Samboja" />
+      <edge id="67" source="Aceng Kurnia" target="Noordin Mohammed Top" />
+      <edge id="68" source="Mus'ab Sahidi" target="Said Sungkar" />
+      <edge id="69" source="Achmad Hasan" target="Heri Sigu Samboja" />
+      <edge id="70" source="Achmad Hasan" target="Noordin Mohammed Top" />
+      <edge id="71" source="Agus Ahmad" target="Abu Dujanah" />
+      <edge id="72" source="Noordin Mohammed Top" target="Mohamed Rais" />
+      <edge id="73" source="Noordin Mohammed Top" target="Hari Kuncoro" />
+      <edge id="74" source="Noordin Mohammed Top" target="Ismail" />
+      <edge id="75" source="Noordin Mohammed Top" target="Abdullah Sunata" />
+      <edge id="76" source="Noordin Mohammed Top" target="Ubeid" />
+      <edge id="77" source="Noordin Mohammed Top" target="Heri Sigu Samboja" />
+      <edge id="78" source="Hari Kuncoro" target="Abdullah Sunata" />
+      <edge id="79" source="Hari Kuncoro" target="Ubeid" />
+      <edge id="80" source="Ismail" target="Mohamed Rais" />
+      <edge id="81" source="Abdullah Sunata" target="Ubeid" />
+    </edges>
+  </graph>
+</gexf>

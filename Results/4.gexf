@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Zulkarnaen" label="Zulkarnaen" />
+      <node id="Urwah" label="Urwah" />
+      <node id="Apuy" label="Apuy" />
+      <node id="Subur Sugiarto" label="Subur Sugiarto" />
+      <node id="Ahmad Rofiq Ridho" label="Ahmad Rofiq Ridho" />
+      <node id="Asep Jaja" label="Asep Jaja" />
+      <node id="Heri Golun" label="Heri Golun" />
+      <node id="Asmar Latin Sani" label="Asmar Latin Sani" />
+      <node id="Fathurrochman" label="Fathurrochman" />
+      <node id="Abdullah Sungkar" label="Abdullah Sungkar" />
+      <node id="Son Hadi" label="Son Hadi" />
+      <node id="Umar Wayan" label="Umar Wayan" />
+      <node id="Harun" label="Harun" />
+      <node id="Abu Fida" label="Abu Fida" />
+      <node id="Abdul Malik" label="Abdul Malik" />
+      <node id="Salman" label="Salman" />
+      <node id="Imam Bukhori" label="Imam Bukhori" />
+      <node id="Enceng Kurnia" label="Enceng Kurnia" />
+      <node id="Qotadah" label="Qotadah" />
+      <node id="Fathurrahman al-Ghozi" label="Fathurrahman al-Ghozi" />
+      <node id="Umar Patek" label="Umar Patek" />
+      <node id="Sardona Siliwangi" label="Sardona Siliwangi" />
+      <node id="Engkos Kosasih" label="Engkos Kosasih" />
+      <node id="Ajengan Masduki" label="Ajengan Masduki" />
+      <node id="Aris Munandar" label="Aris Munandar" />
+      <node id="Noordin Mohammed Top" label="Noordin Mohammed Top" />
+      <node id="Saptono" label="Saptono" />
+      <node id="Misno" label="Misno" />
+      <node id="Umar" label="Umar" />
+      <node id="Salik Firdaus" label="Salik Firdaus" />
+      <node id="Ismail" label="Ismail" />
+      <node id="Abdullah Sunata" label="Abdullah Sunata" />
+      <node id="Abu Dujanah" label="Abu Dujanah" />
+      <node id="Dani Chandra" label="Dani Chandra" />
+      <node id="Agus Ahmad" label="Agus Ahmad" />
+      <node id="Heri Sigu Samboja" label="Heri Sigu Samboja" />
+      <node id="Suramto" label="Suramto" />
+      <node id="Hari Kuncoro" label="Hari Kuncoro" />
+      <node id="Irun Hidayat" label="Irun Hidayat" />
+      <node id="Purnama Putra" label="Purnama Putra" />
+      <node id="Rosihin Noor" label="Rosihin Noor" />
+      <node id="Joni Achmad Fauzan" label="Joni Achmad Fauzan" />
+      <node id="Akram" label="Akram" />
+      <node id="Azhari Husin" label="Azhari Husin" />
+      <node id="Mohamed Saifuddin (alias Faiz)" label="Mohamed Saifuddin (alias Faiz)" />
+      <node id="Dulmatin" label="Dulmatin" />
+      <node id="Baharudin Soleh" label="Baharudin Soleh" />
+      <node id="Hambali" label="Hambali" />
+      <node id="Muchtar" label="Muchtar" />
+      <node id="Usman bin Sef" label="Usman bin Sef" />
+      <node id="Cholily" label="Cholily" />
+      <node id="Tohir" label="Tohir" />
+      <node id="Iqbal Huseini" label="Iqbal Huseini" />
+      <node id="Mohamed Rais" label="Mohamed Rais" />
+      <node id="Mohamed Ihsan" label="Mohamed Ihsan" />
+      <node id="Adung" label="Adung" />
+      <node id="Chandra" label="Chandra" />
+      <node id="Anif Solchanudin" label="Anif Solchanudin" />
+      <node id="Toni Togar" label="Toni Togar" />
+      <node id="Iwan Dharmawan" label="Iwan Dharmawan" />
+      <node id="Aceng Kurnia" label="Aceng Kurnia" />
+      <node id="Mus'ab Sahidi" label="Mus'ab Sahidi" />
+      <node id="Abdul Rauf" label="Abdul Rauf" />
+      <node id="Achmad Hasan" label="Achmad Hasan" />
+      <node id="Iqbal" label="Iqbal" />
+      <node id="Marwan" label="Marwan" />
+      <node id="Ali Ghufron" label="Ali Ghufron" />
+      <node id="Said Sungkar" label="Said Sungkar" />
+      <node id="Imam Samudra" label="Imam Samudra" />
+      <node id="Jabir" label="Jabir" />
+      <node id="Ahmad Sayid Maulana" label="Ahmad Sayid Maulana" />
+      <node id="Ubeid" label="Ubeid" />
+      <node id="Abu Bakar Ba'asyir" label="Abu Bakar Ba'asyir" />
+      <node id="Joko Triharmanto" label="Joko Triharmanto" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Zulkarnaen" target="Adung" />
+      <edge id="1" source="Zulkarnaen" target="Abu Dujanah" />
+      <edge id="2" source="Zulkarnaen" target="Abu Bakar Ba'asyir" />
+      <edge id="3" source="Urwah" target="Irun Hidayat" />
+      <edge id="4" source="Urwah" target="Baharudin Soleh" />
+      <edge id="5" source="Urwah" target="Iwan Dharmawan" />
+      <edge id="6" source="Urwah" target="Umar" />
+      <edge id="7" source="Urwah" target="Azhari Husin" />
+      <edge id="8" source="Urwah" target="Heri Golun" />
+      <edge id="9" source="Urwah" target="Noordin Mohammed Top" />
+      <edge id="10" source="Urwah" target="Achmad Hasan" />
+      <edge id="11" source="Urwah" target="Harun" />
+      <edge id="12" source="Urwah" target="Son Hadi" />
+      <edge id="13" source="Urwah" target="Iqbal Huseini" />
+      <edge id="14" source="Urwah" target="Apuy" />
+      <edge id="15" source="Urwah" target="Chandra" />
+      <edge id="16" source="Urwah" target="Abu Fida" />
+      <edge id="17" source="Urwah" target="Agus Ahmad" />
+      <edge id="18" source="Urwah" target="Heri Sigu Samboja" />
+      <edge id="19" source="Urwah" target="Ubeid" />
+      <edge id="20" source="Apuy" target="Irun Hidayat" />
+      <edge id="21" source="Apuy" target="Rosihin Noor" />
+      <edge id="22" source="Apuy" target="Azhari Husin" />
+      <edge id="23" source="Apuy" target="Heri Golun" />
+      <edge id="24" source="Apuy" target="Fathurrochman" />
+      <edge id="25" source="Apuy" target="Achmad Hasan" />
+      <edge id="26" source="Apuy" target="Son Hadi" />
+      <edge id="27" source="Apuy" target="Iqbal Huseini" />
+      <edge id="28" source="Apuy" target="Harun" />
+      <edge id="29" source="Apuy" target="Chandra" />
+      <edge id="30" source="Apuy" target="Abu Fida" />
+      <edge id="31" source="Apuy" target="Abdul Rauf" />
+      <edge id="32" source="Apuy" target="Agus Ahmad" />
+      <edge id="33" source="Apuy" target="Baharudin Soleh" />
+      <edge id="34" source="Apuy" target="Imam Samudra" />
+      <edge id="35" source="Apuy" target="Iwan Dharmawan" />
+      <edge id="36" source="Apuy" target="Iqbal" />
+      <edge id="37" source="Apuy" target="Noordin Mohammed Top" />
+      <edge id="38" source="Apuy" target="Umar" />
+      <edge id="39" source="Apuy" target="Heri Sigu Samboja" />
+      <edge id="40" source="Apuy" target="Ubeid" />
+      <edge id="41" source="Subur Sugiarto" target="Abdullah Sungkar" />
+      <edge id="42" source="Subur Sugiarto" target="Dulmatin" />
+      <edge id="43" source="Subur Sugiarto" target="Ahmad Rofiq Ridho" />
+      <edge id="44" source="Subur Sugiarto" target="Muchtar" />
+      <edge id="45" source="Subur Sugiarto" target="Azhari Husin" />
+      <edge id="46" source="Subur Sugiarto" target="Baharudin Soleh" />
+      <edge id="47" source="Subur Sugiarto" target="Asmar Latin Sani" />
+      <edge id="48" source="Subur Sugiarto" target="Cholily" />
+      <edge id="49" source="Subur Sugiarto" target="Tohir" />
+      <edge id="50" source="Subur Sugiarto" target="Mohamed Ihsan" />
+      <edge id="51" source="Subur Sugiarto" target="Chandra" />
+      <edge id="52" source="Subur Sugiarto" target="Anif Solchanudin" />
+      <edge id="53" source="Subur Sugiarto" target="Salik Firdaus" />
+      <edge id="54" source="Subur Sugiarto" target="Fathurrahman al-Ghozi" />
+      <edge id="55" source="Subur Sugiarto" target="Umar Patek" />
+      <edge id="56" source="Subur Sugiarto" target="Sardona Siliwangi" />
+      <edge id="57" source="Subur Sugiarto" target="Noordin Mohammed Top" />
+      <edge id="58" source="Subur Sugiarto" target="Misno" />
+      <edge id="59" source="Subur Sugiarto" target="Umar" />
+      <edge id="60" source="Subur Sugiarto" target="Hari Kuncoro" />
+      <edge id="61" source="Subur Sugiarto" target="Ismail" />
+      <edge id="62" source="Subur Sugiarto" target="Jabir" />
+      <edge id="63" source="Subur Sugiarto" target="Ubeid" />
+      <edge id="64" source="Subur Sugiarto" target="Toni Togar" />
+      <edge id="65" source="Subur Sugiarto" target="Imam Samudra" />
+      <edge id="66" source="Ahmad Rofiq Ridho" target="Purnama Putra" />
+      <edge id="67" source="Ahmad Rofiq Ridho" target="Abdullah Sungkar" />
+      <edge id="68" source="Ahmad Rofiq Ridho" target="Joni Achmad Fauzan" />
+      <edge id="69" source="Ahmad Rofiq Ridho" target="Ismail" />
+      <edge id="70" source="Ahmad Rofiq Ridho" target="Azhari Husin" />
+      <edge id="71" source="Ahmad Rofiq Ridho" target="Mohamed Ihsan" />
+      <edge id="72" source="Ahmad Rofiq Ridho" target="Dulmatin" />
+      <edge id="73" source="Ahmad Rofiq Ridho" target="Asmar Latin Sani" />
+      <edge id="74" source="Ahmad Rofiq Ridho" target="Cholily" />
+      <edge id="75" source="Ahmad Rofiq Ridho" target="Tohir" />
+      <edge id="76" source="Ahmad Rofiq Ridho" target="Joko Triharmanto" />
+      <edge id="77" source="Ahmad Rofiq Ridho" target="Muchtar" />
+      <edge id="78" source="Ahmad Rofiq Ridho" target="Chandra" />
+      <edge id="79" source="Ahmad Rofiq Ridho" target="Imam Bukhori" />
+      <edge id="80" source="Ahmad Rofiq Ridho" target="Toni Togar" />
+      <edge id="81" source="Ahmad Rofiq Ridho" target="Iwan Dharmawan" />
+      <edge id="82" source="Ahmad Rofiq Ridho" target="Fathurrahman al-Ghozi" />
+      <edge id="83" source="Ahmad Rofiq Ridho" target="Umar Patek" />
+      <edge id="84" source="Ahmad Rofiq Ridho" target="Imam Samudra" />
+      <edge id="85" source="Ahmad Rofiq Ridho" target="Mus'ab Sahidi" />
+      <edge id="86" source="Ahmad Rofiq Ridho" target="Noordin Mohammed Top" />
+      <edge id="87" source="Ahmad Rofiq Ridho" target="Sardona Siliwangi" />
+      <edge id="88" source="Ahmad Rofiq Ridho" target="Said Sungkar" />
+      <edge id="89" source="Ahmad Rofiq Ridho" target="Umar" />
+      <edge id="90" source="Ahmad Rofiq Ridho" target="Hari Kuncoro" />
+      <edge id="91" source="Ahmad Rofiq Ridho" target="Usman bin Sef" />
+      <edge id="92" source="Ahmad Rofiq Ridho" target="Abdullah Sunata" />
+      <edge id="93" source="Ahmad Rofiq Ridho" target="Jabir" />
+      <edge id="94" source="Ahmad Rofiq Ridho" target="Ubeid" />
+      <edge id="95" source="Asep Jaja" target="Aris Munandar" />
+      <edge id="96" source="Asep Jaja" target="Purnama Putra" />
+      <edge id="97" source="Asep Jaja" target="Iqbal Huseini" />
+      <edge id="98" source="Asep Jaja" target="Joko Triharmanto" />
+      <edge id="99" source="Asep Jaja" target="Harun" />
+      <edge id="100" source="Asep Jaja" target="Abdullah Sunata" />
+      <edge id="101" source="Asep Jaja" target="Salman" />
+      <edge id="102" source="Asep Jaja" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="103" source="Asep Jaja" target="Dani Chandra" />
+      <edge id="104" source="Asep Jaja" target="Hari Kuncoro" />
+      <edge id="105" source="Heri Golun" target="Irun Hidayat" />
+      <edge id="106" source="Heri Golun" target="Rosihin Noor" />
+      <edge id="107" source="Heri Golun" target="Harun" />
+      <edge id="108" source="Heri Golun" target="Azhari Husin" />
+      <edge id="109" source="Heri Golun" target="Fathurrochman" />
+      <edge id="110" source="Heri Golun" target="Achmad Hasan" />
+      <edge id="111" source="Heri Golun" target="Son Hadi" />
+      <edge id="112" source="Heri Golun" target="Iqbal Huseini" />
+      <edge id="113" source="Heri Golun" target="Chandra" />
+      <edge id="114" source="Heri Golun" target="Abu Fida" />
+      <edge id="115" source="Heri Golun" target="Abdul Rauf" />
+      <edge id="116" source="Heri Golun" target="Agus Ahmad" />
+      <edge id="117" source="Heri Golun" target="Baharudin Soleh" />
+      <edge id="118" source="Heri Golun" target="Imam Samudra" />
+      <edge id="119" source="Heri Golun" target="Iwan Dharmawan" />
+      <edge id="120" source="Heri Golun" target="Iqbal" />
+      <edge id="121" source="Heri Golun" target="Noordin Mohammed Top" />
+      <edge id="122" source="Heri Golun" target="Umar" />
+      <edge id="123" source="Heri Golun" target="Heri Sigu Samboja" />
+      <edge id="124" source="Heri Golun" target="Ubeid" />
+      <edge id="125" source="Asmar Latin Sani" target="Abdullah Sungkar" />
+      <edge id="126" source="Asmar Latin Sani" target="Dulmatin" />
+      <edge id="127" source="Asmar Latin Sani" target="Mohamed Ihsan" />
+      <edge id="128" source="Asmar Latin Sani" target="Azhari Husin" />
+      <edge id="129" source="Asmar Latin Sani" target="Hambali" />
+      <edge id="130" source="Asmar Latin Sani" target="Cholily" />
+      <edge id="131" source="Asmar Latin Sani" target="Tohir" />
+      <edge id="132" source="Asmar Latin Sani" target="Mohamed Rais" />
+      <edge id="133" source="Asmar Latin Sani" target="Muchtar" />
+      <edge id="134" source="Asmar Latin Sani" target="Chandra" />
+      <edge id="135" source="Asmar Latin Sani" target="Jabir" />
+      <edge id="136" source="Asmar Latin Sani" target="Fathurrahman al-Ghozi" />
+      <edge id="137" source="Asmar Latin Sani" target="Umar Patek" />
+      <edge id="138" source="Asmar Latin Sani" target="Sardona Siliwangi" />
+      <edge id="139" source="Asmar Latin Sani" target="Noordin Mohammed Top" />
+      <edge id="140" source="Asmar Latin Sani" target="Umar" />
+      <edge id="141" source="Asmar Latin Sani" target="Hari Kuncoro" />
+      <edge id="142" source="Asmar Latin Sani" target="Ismail" />
+      <edge id="143" source="Asmar Latin Sani" target="Ubeid" />
+      <edge id="144" source="Asmar Latin Sani" target="Toni Togar" />
+      <edge id="145" source="Asmar Latin Sani" target="Imam Samudra" />
+      <edge id="146" source="Fathurrochman" target="Irun Hidayat" />
+      <edge id="147" source="Fathurrochman" target="Rosihin Noor" />
+      <edge id="148" source="Fathurrochman" target="Imam Samudra" />
+      <edge id="149" source="Fathurrochman" target="Iwan Dharmawan" />
+      <edge id="150" source="Fathurrochman" target="Iqbal" />
+      <edge id="151" source="Fathurrochman" target="Abdul Rauf" />
+      <edge id="152" source="Fathurrochman" target="Agus Ahmad" />
+      <edge id="153" source="Abdullah Sungkar" target="Irun Hidayat" />
+      <edge id="154" source="Abdullah Sungkar" target="Akram" />
+      <edge id="155" source="Abdullah Sungkar" target="Azhari Husin" />
+      <edge id="156" source="Abdullah Sungkar" target="Mohamed Ihsan" />
+      <edge id="157" source="Abdullah Sungkar" target="Dulmatin" />
+      <edge id="158" source="Abdullah Sungkar" target="Sardona Siliwangi" />
+      <edge id="159" source="Abdullah Sungkar" target="Cholily" />
+      <edge id="160" source="Abdullah Sungkar" target="Tohir" />
+      <edge id="161" source="Abdullah Sungkar" target="Harun" />
+      <edge id="162" source="Abdullah Sungkar" target="Muchtar" />
+      <edge id="163" source="Abdullah Sungkar" target="Abdul Malik" />
+      <edge id="164" source="Abdullah Sungkar" target="Chandra" />
+      <edge id="165" source="Abdullah Sungkar" target="Toni Togar" />
+      <edge id="166" source="Abdullah Sungkar" target="Agus Ahmad" />
+      <edge id="167" source="Abdullah Sungkar" target="Fathurrahman al-Ghozi" />
+      <edge id="168" source="Abdullah Sungkar" target="Umar Patek" />
+      <edge id="169" source="Abdullah Sungkar" target="Imam Samudra" />
+      <edge id="170" source="Abdullah Sungkar" target="Engkos Kosasih" />
+      <edge id="171" source="Abdullah Sungkar" target="Abdul Rauf" />
+      <edge id="172" source="Abdullah Sungkar" target="Enceng Kurnia" />
+      <edge id="173" source="Abdullah Sungkar" target="Ajengan Masduki" />
+      <edge id="174" source="Abdullah Sungkar" target="Saptono" />
+      <edge id="175" source="Abdullah Sungkar" target="Umar" />
+      <edge id="176" source="Abdullah Sungkar" target="Hari Kuncoro" />
+      <edge id="177" source="Abdullah Sungkar" target="Ismail" />
+      <edge id="178" source="Abdullah Sungkar" target="Umar Wayan" />
+      <edge id="179" source="Abdullah Sungkar" target="Jabir" />
+      <edge id="180" source="Abdullah Sungkar" target="Abu Bakar Ba'asyir" />
+      <edge id="181" source="Abdullah Sungkar" target="Ubeid" />
+      <edge id="182" source="Son Hadi" target="Irun Hidayat" />
+      <edge id="183" source="Son Hadi" target="Baharudin Soleh" />
+      <edge id="184" source="Son Hadi" target="Iwan Dharmawan" />
+      <edge id="185" source="Son Hadi" target="Umar" />
+      <edge id="186" source="Son Hadi" target="Azhari Husin" />
+      <edge id="187" source="Son Hadi" target="Noordin Mohammed Top" />
+      <edge id="188" source="Son Hadi" target="Achmad Hasan" />
+      <edge id="189" source="Son Hadi" target="Harun" />
+      <edge id="190" source="Son Hadi" target="Iqbal Huseini" />
+      <edge id="191" source="Son Hadi" target="Chandra" />
+      <edge id="192" source="Son Hadi" target="Abu Fida" />
+      <edge id="193" source="Son Hadi" target="Agus Ahmad" />
+      <edge id="194" source="Son Hadi" target="Heri Sigu Samboja" />
+      <edge id="195" source="Son Hadi" target="Suramto" />
+      <edge id="196" source="Son Hadi" target="Usman bin Sef" />
+      <edge id="197" source="Son Hadi" target="Ubeid" />
+      <edge id="198" source="Umar Wayan" target="Irun Hidayat" />
+      <edge id="199" source="Umar Wayan" target="Enceng Kurnia" />
+      <edge id="200" source="Umar Wayan" target="Engkos Kosasih" />
+      <edge id="201" source="Umar Wayan" target="Akram" />
+      <edge id="202" source="Umar Wayan" target="Abu Bakar Ba'asyir" />
+      <edge id="203" source="Umar Wayan" target="Ajengan Masduki" />
+      <edge id="204" source="Umar Wayan" target="Saptono" />
+      <edge id="205" source="Umar Wayan" target="Abdul Rauf" />
+      <edge id="206" source="Umar Wayan" target="Harun" />
+      <edge id="207" source="Umar Wayan" target="Abdul Malik" />
+      <edge id="208" source="Umar Wayan" target="Chandra" />
+      <edge id="209" source="Umar Wayan" target="Agus Ahmad" />
+      <edge id="210" source="Harun" target="Irun Hidayat" />
+      <edge id="211" source="Harun" target="Akram" />
+      <edge id="212" source="Harun" target="Azhari Husin" />
+      <edge id="213" source="Harun" target="Achmad Hasan" />
+      <edge id="214" source="Harun" target="Iqbal Huseini" />
+      <edge id="215" source="Harun" target="Chandra" />
+      <edge id="216" source="Harun" target="Abdul Malik" />
+      <edge id="217" source="Harun" target="Abu Fida" />
+      <edge id="218" source="Harun" target="Enceng Kurnia" />
+      <edge id="219" source="Harun" target="Iwan Dharmawan" />
+      <edge id="220" source="Harun" target="Baharudin Soleh" />
+      <edge id="221" source="Harun" target="Engkos Kosasih" />
+      <edge id="222" source="Harun" target="Ajengan Masduki" />
+      <edge id="223" source="Harun" target="Noordin Mohammed Top" />
+      <edge id="224" source="Harun" target="Saptono" />
+      <edge id="225" source="Harun" target="Umar" />
+      <edge id="226" source="Harun" target="Abdul Rauf" />
+      <edge id="227" source="Harun" target="Agus Ahmad" />
+      <edge id="228" source="Harun" target="Heri Sigu Samboja" />
+      <edge id="229" source="Harun" target="Abu Bakar Ba'asyir" />
+      <edge id="230" source="Harun" target="Ubeid" />
+      <edge id="231" source="Abu Fida" target="Irun Hidayat" />
+      <edge id="232" source="Abu Fida" target="Baharudin Soleh" />
+      <edge id="233" source="Abu Fida" target="Iwan Dharmawan" />
+      <edge id="234" source="Abu Fida" target="Umar" />
+      <edge id="235" source="Abu Fida" target="Azhari Husin" />
+      <edge id="236" source="Abu Fida" target="Noordin Mohammed Top" />
+      <edge id="237" source="Abu Fida" target="Achmad Hasan" />
+      <edge id="238" source="Abu Fida" target="Iqbal Huseini" />
+      <edge id="239" source="Abu Fida" target="Chandra" />
+      <edge id="240" source="Abu Fida" target="Agus Ahmad" />
+      <edge id="241" source="Abu Fida" target="Heri Sigu Samboja" />
+      <edge id="242" source="Abu Fida" target="Suramto" />
+      <edge id="243" source="Abu Fida" target="Usman bin Sef" />
+      <edge id="244" source="Abu Fida" target="Ubeid" />
+      <edge id="245" source="Abdul Malik" target="Irun Hidayat" />
+      <edge id="246" source="Abdul Malik" target="Enceng Kurnia" />
+      <edge id="247" source="Abdul Malik" target="Akram" />
+      <edge id="248" source="Abdul Malik" target="Engkos Kosasih" />
+      <edge id="249" source="Abdul Malik" target="Abu Bakar Ba'asyir" />
+      <edge id="250" source="Abdul Malik" target="Ajengan Masduki" />
+      <edge id="251" source="Abdul Malik" target="Saptono" />
+      <edge id="252" source="Abdul Malik" target="Abdul Rauf" />
+      <edge id="253" source="Abdul Malik" target="Jabir" />
+      <edge id="254" source="Abdul Malik" target="Chandra" />
+      <edge id="255" source="Abdul Malik" target="Agus Ahmad" />
+      <edge id="256" source="Salman" target="Aris Munandar" />
+      <edge id="257" source="Salman" target="Purnama Putra" />
+      <edge id="258" source="Salman" target="Iqbal Huseini" />
+      <edge id="259" source="Salman" target="Joko Triharmanto" />
+      <edge id="260" source="Salman" target="Abdullah Sunata" />
+      <edge id="261" source="Salman" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="262" source="Salman" target="Dani Chandra" />
+      <edge id="263" source="Salman" target="Hari Kuncoro" />
+      <edge id="264" source="Imam Bukhori" target="Fathurrahman al-Ghozi" />
+      <edge id="265" source="Imam Bukhori" target="Said Sungkar" />
+      <edge id="266" source="Imam Bukhori" target="Iwan Dharmawan" />
+      <edge id="267" source="Imam Bukhori" target="Azhari Husin" />
+      <edge id="268" source="Imam Bukhori" target="Usman bin Sef" />
+      <edge id="269" source="Imam Bukhori" target="Mus'ab Sahidi" />
+      <edge id="270" source="Enceng Kurnia" target="Irun Hidayat" />
+      <edge id="271" source="Enceng Kurnia" target="Engkos Kosasih" />
+      <edge id="272" source="Enceng Kurnia" target="Akram" />
+      <edge id="273" source="Enceng Kurnia" target="Abu Bakar Ba'asyir" />
+      <edge id="274" source="Enceng Kurnia" target="Ajengan Masduki" />
+      <edge id="275" source="Enceng Kurnia" target="Ahmad Sayid Maulana" />
+      <edge id="276" source="Enceng Kurnia" target="Saptono" />
+      <edge id="277" source="Enceng Kurnia" target="Abdul Rauf" />
+      <edge id="278" source="Enceng Kurnia" target="Chandra" />
+      <edge id="279" source="Enceng Kurnia" target="Agus Ahmad" />
+      <edge id="280" source="Qotadah" target="Adung" />
+      <edge id="281" source="Qotadah" target="Abu Dujanah" />
+      <edge id="282" source="Qotadah" target="Usman bin Sef" />
+      <edge id="283" source="Qotadah" target="Achmad Hasan" />
+      <edge id="284" source="Fathurrahman al-Ghozi" target="Umar Patek" />
+      <edge id="285" source="Fathurrahman al-Ghozi" target="Sardona Siliwangi" />
+      <edge id="286" source="Fathurrahman al-Ghozi" target="Imam Samudra" />
+      <edge id="287" source="Fathurrahman al-Ghozi" target="Dulmatin" />
+      <edge id="288" source="Fathurrahman al-Ghozi" target="Mohamed Ihsan" />
+      <edge id="289" source="Fathurrahman al-Ghozi" target="Azhari Husin" />
+      <edge id="290" source="Fathurrahman al-Ghozi" target="Cholily" />
+      <edge id="291" source="Fathurrahman al-Ghozi" target="Tohir" />
+      <edge id="292" source="Fathurrahman al-Ghozi" target="Umar" />
+      <edge id="293" source="Fathurrahman al-Ghozi" target="Ismail" />
+      <edge id="294" source="Fathurrahman al-Ghozi" target="Muchtar" />
+      <edge id="295" source="Fathurrahman al-Ghozi" target="Jabir" />
+      <edge id="296" source="Fathurrahman al-Ghozi" target="Chandra" />
+      <edge id="297" source="Fathurrahman al-Ghozi" target="Ubeid" />
+      <edge id="298" source="Fathurrahman al-Ghozi" target="Toni Togar" />
+      <edge id="299" source="Fathurrahman al-Ghozi" target="Hari Kuncoro" />
+      <edge id="300" source="Umar Patek" target="Azhari Husin" />
+      <edge id="301" source="Umar Patek" target="Muchtar" />
+      <edge id="302" source="Umar Patek" target="Dulmatin" />
+      <edge id="303" source="Umar Patek" target="Cholily" />
+      <edge id="304" source="Umar Patek" target="Tohir" />
+      <edge id="305" source="Umar Patek" target="Mohamed Ihsan" />
+      <edge id="306" source="Umar Patek" target="Imam Samudra" />
+      <edge id="307" source="Umar Patek" target="Hambali" />
+      <edge id="308" source="Umar Patek" target="Abdul Rauf" />
+      <edge id="309" source="Umar Patek" target="Chandra" />
+      <edge id="310" source="Umar Patek" target="Sardona Siliwangi" />
+      <edge id="311" source="Umar Patek" target="Iqbal" />
+      <edge id="312" source="Umar Patek" target="Umar" />
+      <edge id="313" source="Umar Patek" target="Hari Kuncoro" />
+      <edge id="314" source="Umar Patek" target="Ismail" />
+      <edge id="315" source="Umar Patek" target="Jabir" />
+      <edge id="316" source="Umar Patek" target="Toni Togar" />
+      <edge id="317" source="Umar Patek" target="Ali Ghufron" />
+      <edge id="318" source="Umar Patek" target="Ubeid" />
+      <edge id="319" source="Sardona Siliwangi" target="Dulmatin" />
+      <edge id="320" source="Sardona Siliwangi" target="Mohamed Ihsan" />
+      <edge id="321" source="Sardona Siliwangi" target="Azhari Husin" />
+      <edge id="322" source="Sardona Siliwangi" target="Cholily" />
+      <edge id="323" source="Sardona Siliwangi" target="Tohir" />
+      <edge id="324" source="Sardona Siliwangi" target="Mohamed Rais" />
+      <edge id="325" source="Sardona Siliwangi" target="Muchtar" />
+      <edge id="326" source="Sardona Siliwangi" target="Chandra" />
+      <edge id="327" source="Sardona Siliwangi" target="Hambali" />
+      <edge id="328" source="Sardona Siliwangi" target="Jabir" />
+      <edge id="329" source="Sardona Siliwangi" target="Imam Samudra" />
+      <edge id="330" source="Sardona Siliwangi" target="Noordin Mohammed Top" />
+      <edge id="331" source="Sardona Siliwangi" target="Umar" />
+      <edge id="332" source="Sardona Siliwangi" target="Hari Kuncoro" />
+      <edge id="333" source="Sardona Siliwangi" target="Ismail" />
+      <edge id="334" source="Sardona Siliwangi" target="Toni Togar" />
+      <edge id="335" source="Sardona Siliwangi" target="Ubeid" />
+      <edge id="336" source="Engkos Kosasih" target="Irun Hidayat" />
+      <edge id="337" source="Engkos Kosasih" target="Abu Bakar Ba'asyir" />
+      <edge id="338" source="Engkos Kosasih" target="Akram" />
+      <edge id="339" source="Engkos Kosasih" target="Ajengan Masduki" />
+      <edge id="340" source="Engkos Kosasih" target="Saptono" />
+      <edge id="341" source="Engkos Kosasih" target="Abdul Rauf" />
+      <edge id="342" source="Engkos Kosasih" target="Chandra" />
+      <edge id="343" source="Engkos Kosasih" target="Agus Ahmad" />
+      <edge id="344" source="Ajengan Masduki" target="Irun Hidayat" />
+      <edge id="345" source="Ajengan Masduki" target="Akram" />
+      <edge id="346" source="Ajengan Masduki" target="Abu Bakar Ba'asyir" />
+      <edge id="347" source="Ajengan Masduki" target="Saptono" />
+      <edge id="348" source="Ajengan Masduki" target="Abdul Rauf" />
+      <edge id="349" source="Ajengan Masduki" target="Chandra" />
+      <edge id="350" source="Ajengan Masduki" target="Agus Ahmad" />
+      <edge id="351" source="Aris Munandar" target="Purnama Putra" />
+      <edge id="352" source="Aris Munandar" target="Iqbal Huseini" />
+      <edge id="353" source="Aris Munandar" target="Joko Triharmanto" />
+      <edge id="354" source="Aris Munandar" target="Abdullah Sunata" />
+      <edge id="355" source="Aris Munandar" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="356" source="Aris Munandar" target="Dani Chandra" />
+      <edge id="357" source="Aris Munandar" target="Hari Kuncoro" />
+      <edge id="358" source="Noordin Mohammed Top" target="Irun Hidayat" />
+      <edge id="359" source="Noordin Mohammed Top" target="Purnama Putra" />
+      <edge id="360" source="Noordin Mohammed Top" target="Azhari Husin" />
+      <edge id="361" source="Noordin Mohammed Top" target="Hambali" />
+      <edge id="362" source="Noordin Mohammed Top" target="Usman bin Sef" />
+      <edge id="363" source="Noordin Mohammed Top" target="Cholily" />
+      <edge id="364" source="Noordin Mohammed Top" target="Tohir" />
+      <edge id="365" source="Noordin Mohammed Top" target="Iqbal Huseini" />
+      <edge id="366" source="Noordin Mohammed Top" target="Joko Triharmanto" />
+      <edge id="367" source="Noordin Mohammed Top" target="Mohamed Ihsan" />
+      <edge id="368" source="Noordin Mohammed Top" target="Adung" />
+      <edge id="369" source="Noordin Mohammed Top" target="Chandra" />
+      <edge id="370" source="Noordin Mohammed Top" target="Aceng Kurnia" />
+      <edge id="371" source="Noordin Mohammed Top" target="Toni Togar" />
+      <edge id="372" source="Noordin Mohammed Top" target="Joni Achmad Fauzan" />
+      <edge id="373" source="Noordin Mohammed Top" target="Baharudin Soleh" />
+      <edge id="374" source="Noordin Mohammed Top" target="Anif Solchanudin" />
+      <edge id="375" source="Noordin Mohammed Top" target="Iwan Dharmawan" />
+      <edge id="376" source="Noordin Mohammed Top" target="Achmad Hasan" />
+      <edge id="377" source="Noordin Mohammed Top" target="Marwan" />
+      <edge id="378" source="Noordin Mohammed Top" target="Salik Firdaus" />
+      <edge id="379" source="Noordin Mohammed Top" target="Mohamed Rais" />
+      <edge id="380" source="Noordin Mohammed Top" target="Misno" />
+      <edge id="381" source="Noordin Mohammed Top" target="Umar" />
+      <edge id="382" source="Noordin Mohammed Top" target="Hari Kuncoro" />
+      <edge id="383" source="Noordin Mohammed Top" target="Ismail" />
+      <edge id="384" source="Noordin Mohammed Top" target="Abdullah Sunata" />
+      <edge id="385" source="Noordin Mohammed Top" target="Jabir" />
+      <edge id="386" source="Noordin Mohammed Top" target="Agus Ahmad" />
+      <edge id="387" source="Noordin Mohammed Top" target="Heri Sigu Samboja" />
+      <edge id="388" source="Noordin Mohammed Top" target="Ali Ghufron" />
+      <edge id="389" source="Noordin Mohammed Top" target="Ubeid" />
+      <edge id="390" source="Saptono" target="Irun Hidayat" />
+      <edge id="391" source="Saptono" target="Akram" />
+      <edge id="392" source="Saptono" target="Abu Bakar Ba'asyir" />
+      <edge id="393" source="Saptono" target="Abdul Rauf" />
+      <edge id="394" source="Saptono" target="Chandra" />
+      <edge id="395" source="Saptono" target="Agus Ahmad" />
+      <edge id="396" source="Misno" target="Baharudin Soleh" />
+      <edge id="397" source="Misno" target="Jabir" />
+      <edge id="398" source="Misno" target="Anif Solchanudin" />
+      <edge id="399" source="Misno" target="Azhari Husin" />
+      <edge id="400" source="Misno" target="Salik Firdaus" />
+      <edge id="401" source="Umar" target="Irun Hidayat" />
+      <edge id="402" source="Umar" target="Azhari Husin" />
+      <edge id="403" source="Umar" target="Mohamed Ihsan" />
+      <edge id="404" source="Umar" target="Dulmatin" />
+      <edge id="405" source="Umar" target="Baharudin Soleh" />
+      <edge id="406" source="Umar" target="Achmad Hasan" />
+      <edge id="407" source="Umar" target="Cholily" />
+      <edge id="408" source="Umar" target="Tohir" />
+      <edge id="409" source="Umar" target="Iqbal Huseini" />
+      <edge id="410" source="Umar" target="Muchtar" />
+      <edge id="411" source="Umar" target="Imam Samudra" />
+      <edge id="412" source="Umar" target="Toni Togar" />
+      <edge id="413" source="Umar" target="Agus Ahmad" />
+      <edge id="414" source="Umar" target="Iwan Dharmawan" />
+      <edge id="415" source="Umar" target="Chandra" />
+      <edge id="416" source="Umar" target="Hari Kuncoro" />
+      <edge id="417" source="Umar" target="Ismail" />
+      <edge id="418" source="Umar" target="Jabir" />
+      <edge id="419" source="Umar" target="Heri Sigu Samboja" />
+      <edge id="420" source="Umar" target="Ubeid" />
+      <edge id="421" source="Salik Firdaus" target="Baharudin Soleh" />
+      <edge id="422" source="Salik Firdaus" target="Anif Solchanudin" />
+      <edge id="423" source="Salik Firdaus" target="Azhari Husin" />
+      <edge id="424" source="Salik Firdaus" target="Jabir" />
+      <edge id="425" source="Ismail" target="Dulmatin" />
+      <edge id="426" source="Ismail" target="Muchtar" />
+      <edge id="427" source="Ismail" target="Azhari Husin" />
+      <edge id="428" source="Ismail" target="Cholily" />
+      <edge id="429" source="Ismail" target="Tohir" />
+      <edge id="430" source="Ismail" target="Mohamed Rais" />
+      <edge id="431" source="Ismail" target="Mohamed Ihsan" />
+      <edge id="432" source="Ismail" target="Chandra" />
+      <edge id="433" source="Ismail" target="Hambali" />
+      <edge id="434" source="Ismail" target="Jabir" />
+      <edge id="435" source="Ismail" target="Hari Kuncoro" />
+      <edge id="436" source="Ismail" target="Ubeid" />
+      <edge id="437" source="Ismail" target="Toni Togar" />
+      <edge id="438" source="Ismail" target="Imam Samudra" />
+      <edge id="439" source="Abdullah Sunata" target="Purnama Putra" />
+      <edge id="440" source="Abdullah Sunata" target="Azhari Husin" />
+      <edge id="441" source="Abdullah Sunata" target="Iqbal Huseini" />
+      <edge id="442" source="Abdullah Sunata" target="Hari Kuncoro" />
+      <edge id="443" source="Abdullah Sunata" target="Dani Chandra" />
+      <edge id="444" source="Abdullah Sunata" target="Ubeid" />
+      <edge id="445" source="Abdullah Sunata" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="446" source="Abdullah Sunata" target="Usman bin Sef" />
+      <edge id="447" source="Abdullah Sunata" target="Joko Triharmanto" />
+      <edge id="448" source="Abu Dujanah" target="Adung" />
+      <edge id="449" source="Abu Dujanah" target="Abu Bakar Ba'asyir" />
+      <edge id="450" source="Abu Dujanah" target="Agus Ahmad" />
+      <edge id="451" source="Dani Chandra" target="Purnama Putra" />
+      <edge id="452" source="Dani Chandra" target="Iqbal Huseini" />
+      <edge id="453" source="Dani Chandra" target="Joko Triharmanto" />
+      <edge id="454" source="Dani Chandra" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="455" source="Dani Chandra" target="Hari Kuncoro" />
+      <edge id="456" source="Agus Ahmad" target="Irun Hidayat" />
+      <edge id="457" source="Agus Ahmad" target="Rosihin Noor" />
+      <edge id="458" source="Agus Ahmad" target="Azhari Husin" />
+      <edge id="459" source="Agus Ahmad" target="Achmad Hasan" />
+      <edge id="460" source="Agus Ahmad" target="Iqbal Huseini" />
+      <edge id="461" source="Agus Ahmad" target="Chandra" />
+      <edge id="462" source="Agus Ahmad" target="Iwan Dharmawan" />
+      <edge id="463" source="Agus Ahmad" target="Baharudin Soleh" />
+      <edge id="464" source="Agus Ahmad" target="Imam Samudra" />
+      <edge id="465" source="Agus Ahmad" target="Akram" />
+      <edge id="466" source="Agus Ahmad" target="Iqbal" />
+      <edge id="467" source="Agus Ahmad" target="Abdul Rauf" />
+      <edge id="468" source="Agus Ahmad" target="Heri Sigu Samboja" />
+      <edge id="469" source="Agus Ahmad" target="Abu Bakar Ba'asyir" />
+      <edge id="470" source="Agus Ahmad" target="Ubeid" />
+      <edge id="471" source="Heri Sigu Samboja" target="Irun Hidayat" />
+      <edge id="472" source="Heri Sigu Samboja" target="Baharudin Soleh" />
+      <edge id="473" source="Heri Sigu Samboja" target="Iwan Dharmawan" />
+      <edge id="474" source="Heri Sigu Samboja" target="Azhari Husin" />
+      <edge id="475" source="Heri Sigu Samboja" target="Achmad Hasan" />
+      <edge id="476" source="Heri Sigu Samboja" target="Iqbal Huseini" />
+      <edge id="477" source="Heri Sigu Samboja" target="Chandra" />
+      <edge id="478" source="Heri Sigu Samboja" target="Aceng Kurnia" />
+      <edge id="479" source="Heri Sigu Samboja" target="Ubeid" />
+      <edge id="480" source="Suramto" target="Usman bin Sef" />
+      <edge id="481" source="Suramto" target="Achmad Hasan" />
+      <edge id="482" source="Hari Kuncoro" target="Mohamed Ihsan" />
+      <edge id="483" source="Hari Kuncoro" target="Purnama Putra" />
+      <edge id="484" source="Hari Kuncoro" target="Azhari Husin" />
+      <edge id="485" source="Hari Kuncoro" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="486" source="Hari Kuncoro" target="Dulmatin" />
+      <edge id="487" source="Hari Kuncoro" target="Cholily" />
+      <edge id="488" source="Hari Kuncoro" target="Tohir" />
+      <edge id="489" source="Hari Kuncoro" target="Iqbal Huseini" />
+      <edge id="490" source="Hari Kuncoro" target="Joko Triharmanto" />
+      <edge id="491" source="Hari Kuncoro" target="Muchtar" />
+      <edge id="492" source="Hari Kuncoro" target="Chandra" />
+      <edge id="493" source="Hari Kuncoro" target="Imam Samudra" />
+      <edge id="494" source="Hari Kuncoro" target="Toni Togar" />
+      <edge id="495" source="Hari Kuncoro" target="Usman bin Sef" />
+      <edge id="496" source="Hari Kuncoro" target="Jabir" />
+      <edge id="497" source="Hari Kuncoro" target="Ubeid" />
+      <edge id="498" source="Irun Hidayat" target="Rosihin Noor" />
+      <edge id="499" source="Irun Hidayat" target="Azhari Husin" />
+      <edge id="500" source="Irun Hidayat" target="Achmad Hasan" />
+      <edge id="501" source="Irun Hidayat" target="Iqbal Huseini" />
+      <edge id="502" source="Irun Hidayat" target="Chandra" />
+      <edge id="503" source="Irun Hidayat" target="Iwan Dharmawan" />
+      <edge id="504" source="Irun Hidayat" target="Baharudin Soleh" />
+      <edge id="505" source="Irun Hidayat" target="Imam Samudra" />
+      <edge id="506" source="Irun Hidayat" target="Akram" />
+      <edge id="507" source="Irun Hidayat" target="Iqbal" />
+      <edge id="508" source="Irun Hidayat" target="Abdul Rauf" />
+      <edge id="509" source="Irun Hidayat" target="Abu Bakar Ba'asyir" />
+      <edge id="510" source="Irun Hidayat" target="Ubeid" />
+      <edge id="511" source="Purnama Putra" target="Azhari Husin" />
+      <edge id="512" source="Purnama Putra" target="Iqbal Huseini" />
+      <edge id="513" source="Purnama Putra" target="Ubeid" />
+      <edge id="514" source="Purnama Putra" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="515" source="Purnama Putra" target="Usman bin Sef" />
+      <edge id="516" source="Purnama Putra" target="Joko Triharmanto" />
+      <edge id="517" source="Rosihin Noor" target="Imam Samudra" />
+      <edge id="518" source="Rosihin Noor" target="Iwan Dharmawan" />
+      <edge id="519" source="Rosihin Noor" target="Iqbal" />
+      <edge id="520" source="Rosihin Noor" target="Abdul Rauf" />
+      <edge id="521" source="Akram" target="Abu Bakar Ba'asyir" />
+      <edge id="522" source="Akram" target="Mohamed Saifuddin (alias Faiz)" />
+      <edge id="523" source="Akram" target="Abdul Rauf" />
+      <edge id="524" source="Akram" target="Chandra" />
+      <edge id="525" source="Azhari Husin" target="Muchtar" />
+      <edge id="526" source="Azhari Husin" target="Chandra" />
+      <edge id="527" source="Azhari Husin" target="Usman bin Sef" />
+      <edge id="528" source="Azhari Husin" target="Baharudin Soleh" />
+      <edge id="529" source="Azhari Husin" target="Abdul Rauf" />
+      <edge id="530" source="Azhari Husin" target="Imam Samudra" />
+      <edge id="531" source="Azhari Husin" target="Ali Ghufron" />
+      <edge id="532" source="Azhari Husin" target="Ubeid" />
+      <edge id="533" source="Azhari Husin" target="Dulmatin" />
+      <edge id="534" source="Azhari Husin" target="Hambali" />
+      <edge id="535" source="Azhari Husin" target="Achmad Hasan" />
+      <edge id="536" source="Azhari Husin" target="Cholily" />
+      <edge id="537" source="Azhari Husin" target="Tohir" />
+      <edge id="538" source="Azhari Husin" target="Iqbal Huseini" />
+      <edge id="539" source="Azhari Husin" target="Joko Triharmanto" />
+      <edge id="540" source="Azhari Husin" target="Mohamed Ihsan" />
+      <edge id="541" source="Azhari Husin" target="Anif Solchanudin" />
+      <edge id="542" source="Azhari Husin" target="Iwan Dharmawan" />
+      <edge id="543" source="Azhari Husin" target="Mus'ab Sahidi" />
+      <edge id="544" source="Azhari Husin" target="Iqbal" />
+      <edge id="545" source="Azhari Husin" target="Said Sungkar" />
+      <edge id="546" source="Azhari Husin" target="Jabir" />
+      <edge id="547" source="Azhari Husin" target="Toni Togar" />
+      <edge id="548" source="Azhari Husin" target="Abu Bakar Ba'asyir" />
+      <edge id="549" source="Azhari Husin" target="Mohamed Rais" />
+      <edge id="550" source="Mohamed Saifuddin (alias Faiz)" target="Iqbal Huseini" />
+      <edge id="551" source="Mohamed Saifuddin (alias Faiz)" target="Joko Triharmanto" />
+      <edge id="552" source="Dulmatin" target="Muchtar" />
+      <edge id="553" source="Dulmatin" target="Cholily" />
+      <edge id="554" source="Dulmatin" target="Tohir" />
+      <edge id="555" source="Dulmatin" target="Mohamed Ihsan" />
+      <edge id="556" source="Dulmatin" target="Hambali" />
+      <edge id="557" source="Dulmatin" target="Abdul Rauf" />
+      <edge id="558" source="Dulmatin" target="Imam Samudra" />
+      <edge id="559" source="Dulmatin" target="Iqbal" />
+      <edge id="560" source="Dulmatin" target="Chandra" />
+      <edge id="561" source="Dulmatin" target="Jabir" />
+      <edge id="562" source="Dulmatin" target="Toni Togar" />
+      <edge id="563" source="Dulmatin" target="Ali Ghufron" />
+      <edge id="564" source="Dulmatin" target="Ubeid" />
+      <edge id="565" source="Baharudin Soleh" target="Achmad Hasan" />
+      <edge id="566" source="Baharudin Soleh" target="Iqbal Huseini" />
+      <edge id="567" source="Baharudin Soleh" target="Chandra" />
+      <edge id="568" source="Baharudin Soleh" target="Anif Solchanudin" />
+      <edge id="569" source="Baharudin Soleh" target="Jabir" />
+      <edge id="570" source="Baharudin Soleh" target="Iwan Dharmawan" />
+      <edge id="571" source="Baharudin Soleh" target="Ubeid" />
+      <edge id="572" source="Hambali" target="Imam Samudra" />
+      <edge id="573" source="Hambali" target="Abu Bakar Ba'asyir" />
+      <edge id="574" source="Hambali" target="Marwan" />
+      <edge id="575" source="Hambali" target="Iqbal" />
+      <edge id="576" source="Hambali" target="Abdul Rauf" />
+      <edge id="577" source="Hambali" target="Tohir" />
+      <edge id="578" source="Hambali" target="Mohamed Rais" />
+      <edge id="579" source="Hambali" target="Mohamed Ihsan" />
+      <edge id="580" source="Hambali" target="Adung" />
+      <edge id="581" source="Hambali" target="Ali Ghufron" />
+      <edge id="582" source="Hambali" target="Toni Togar" />
+      <edge id="583" source="Muchtar" target="Imam Samudra" />
+      <edge id="584" source="Muchtar" target="Cholily" />
+      <edge id="585" source="Muchtar" target="Tohir" />
+      <edge id="586" source="Muchtar" target="Mohamed Ihsan" />
+      <edge id="587" source="Muchtar" target="Jabir" />
+      <edge id="588" source="Muchtar" target="Chandra" />
+      <edge id="589" source="Muchtar" target="Ubeid" />
+      <edge id="590" source="Muchtar" target="Toni Togar" />
+      <edge id="591" source="Usman bin Sef" target="Mus'ab Sahidi" />
+      <edge id="592" source="Usman bin Sef" target="Joko Triharmanto" />
+      <edge id="593" source="Usman bin Sef" target="Achmad Hasan" />
+      <edge id="594" source="Usman bin Sef" target="Adung" />
+      <edge id="595" source="Usman bin Sef" target="Said Sungkar" />
+      <edge id="596" source="Usman bin Sef" target="Ubeid" />
+      <edge id="597" source="Usman bin Sef" target="Iwan Dharmawan" />
+      <edge id="598" source="Cholily" target="Chandra" />
+      <edge id="599" source="Cholily" target="Imam Samudra" />
+      <edge id="600" source="Cholily" target="Tohir" />
+      <edge id="601" source="Cholily" target="Mohamed Ihsan" />
+      <edge id="602" source="Cholily" target="Jabir" />
+      <edge id="603" source="Cholily" target="Toni Togar" />
+      <edge id="604" source="Cholily" target="Ubeid" />
+      <edge id="605" source="Tohir" target="Mohamed Ihsan" />
+      <edge id="606" source="Tohir" target="Mohamed Rais" />
+      <edge id="607" source="Tohir" target="Jabir" />
+      <edge id="608" source="Tohir" target="Imam Samudra" />
+      <edge id="609" source="Tohir" target="Chandra" />
+      <edge id="610" source="Tohir" target="Toni Togar" />
+      <edge id="611" source="Tohir" target="Ubeid" />
+      <edge id="612" source="Iqbal Huseini" target="Achmad Hasan" />
+      <edge id="613" source="Iqbal Huseini" target="Joko Triharmanto" />
+      <edge id="614" source="Iqbal Huseini" target="Chandra" />
+      <edge id="615" source="Iqbal Huseini" target="Iwan Dharmawan" />
+      <edge id="616" source="Iqbal Huseini" target="Ubeid" />
+      <edge id="617" source="Mohamed Rais" target="Mohamed Ihsan" />
+      <edge id="618" source="Mohamed Rais" target="Toni Togar" />
+      <edge id="619" source="Mohamed Ihsan" target="Chandra" />
+      <edge id="620" source="Mohamed Ihsan" target="Jabir" />
+      <edge id="621" source="Mohamed Ihsan" target="Imam Samudra" />
+      <edge id="622" source="Mohamed Ihsan" target="Iqbal" />
+      <edge id="623" source="Mohamed Ihsan" target="Abdul Rauf" />
+      <edge id="624" source="Mohamed Ihsan" target="Toni Togar" />
+      <edge id="625" source="Mohamed Ihsan" target="Ali Ghufron" />
+      <edge id="626" source="Mohamed Ihsan" target="Abu Bakar Ba'asyir" />
+      <edge id="627" source="Mohamed Ihsan" target="Ubeid" />
+      <edge id="628" source="Adung" target="Achmad Hasan" />
+      <edge id="629" source="Adung" target="Marwan" />
+      <edge id="630" source="Adung" target="Abu Bakar Ba'asyir" />
+      <edge id="631" source="Adung" target="Ali Ghufron" />
+      <edge id="632" source="Chandra" target="Achmad Hasan" />
+      <edge id="633" source="Chandra" target="Imam Samudra" />
+      <edge id="634" source="Chandra" target="Abdul Rauf" />
+      <edge id="635" source="Chandra" target="Iwan Dharmawan" />
+      <edge id="636" source="Chandra" target="Jabir" />
+      <edge id="637" source="Chandra" target="Toni Togar" />
+      <edge id="638" source="Chandra" target="Abu Bakar Ba'asyir" />
+      <edge id="639" source="Chandra" target="Ubeid" />
+      <edge id="640" source="Anif Solchanudin" target="Jabir" />
+      <edge id="641" source="Toni Togar" target="Imam Samudra" />
+      <edge id="642" source="Toni Togar" target="Jabir" />
+      <edge id="643" source="Toni Togar" target="Iqbal" />
+      <edge id="644" source="Toni Togar" target="Abdul Rauf" />
+      <edge id="645" source="Toni Togar" target="Ali Ghufron" />
+      <edge id="646" source="Toni Togar" target="Abu Bakar Ba'asyir" />
+      <edge id="647" source="Toni Togar" target="Ubeid" />
+      <edge id="648" source="Iwan Dharmawan" target="Achmad Hasan" />
+      <edge id="649" source="Iwan Dharmawan" target="Imam Samudra" />
+      <edge id="650" source="Iwan Dharmawan" target="Mus'ab Sahidi" />
+      <edge id="651" source="Iwan Dharmawan" target="Iqbal" />
+      <edge id="652" source="Iwan Dharmawan" target="Said Sungkar" />
+      <edge id="653" source="Iwan Dharmawan" target="Abdul Rauf" />
+      <edge id="654" source="Iwan Dharmawan" target="Ubeid" />
+      <edge id="655" source="Aceng Kurnia" target="Achmad Hasan" />
+      <edge id="656" source="Mus'ab Sahidi" target="Said Sungkar" />
+      <edge id="657" source="Abdul Rauf" target="Imam Samudra" />
+      <edge id="658" source="Abdul Rauf" target="Iqbal" />
+      <edge id="659" source="Abdul Rauf" target="Ali Ghufron" />
+      <edge id="660" source="Abdul Rauf" target="Abu Bakar Ba'asyir" />
+      <edge id="661" source="Achmad Hasan" target="Ubeid" />
+      <edge id="662" source="Iqbal" target="Imam Samudra" />
+      <edge id="663" source="Iqbal" target="Ali Ghufron" />
+      <edge id="664" source="Marwan" target="Ali Ghufron" />
+      <edge id="665" source="Ali Ghufron" target="Imam Samudra" />
+      <edge id="666" source="Imam Samudra" target="Jabir" />
+      <edge id="667" source="Imam Samudra" target="Abu Bakar Ba'asyir" />
+      <edge id="668" source="Imam Samudra" target="Ubeid" />
+      <edge id="669" source="Jabir" target="Ubeid" />
+      <edge id="670" source="Ubeid" target="Joko Triharmanto" />
+    </edges>
+  </graph>
+</gexf>
